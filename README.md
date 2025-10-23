@@ -6,7 +6,7 @@
 
 🎨 Atualmente me aventuro pelo universo do design gráfico e tecnologia, sempre buscando unir criatividade e inovação.
 
-💻 Estou estudando **Front End na Alura**, focado em:
+💻 Estou estudando **desenvodor web na Tripleten**, focado em:
 - **HTML**
 - **CSS**
 - **JavaScript**

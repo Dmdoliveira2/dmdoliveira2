@@ -59,9 +59,6 @@ Atualmente, estou me especializando em **Desenvolvimento Web pela TripleTen**, c
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dmdoliveira2&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dmdoliveira2&theme=tokyonight" alt="GitHub streak stats" />

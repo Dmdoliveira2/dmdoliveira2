@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Técnico de Sala de Controle II | Designer Gráfico | Desenvolvedor Web</strong>
+  <strong>Desenvolvedor Front-end em formação | Técnico de Mineração | Designer Gráfico</strong>
 </p>
 
 <p align="center">
@@ -14,19 +14,36 @@
 
 ## 🚀 Sobre mim
 
-Sou movido por **curiosidade e propósito**. Unindo design e tecnologia, busco criar experiências digitais que inspirem e causem impacto real.
+Técnico de mineração migrando de carreira para desenvolvimento front-end. Uso código pra resolver problemas reais do meu próprio dia a dia de trabalho em campo — e é exatamente isso que meus projetos abaixo mostram.
 
 ```javascript
 const douglas = {
-  localização: "Brasil 🇧🇷",
-  educação: "Desenvolvimento Web - TripleTen",
-  áreas: ["Design Gráfico", "Front-end Development", "UX/UI"],
-  focoAtual: ["React", "JavaScript ES6+", "Responsive Design"],
-  objetivo: "Criar soluções digitais bonitas, funcionais e humanas",
+  formação: "Desenvolvimento Web Full Stack - TripleTen",
+  background: "Técnico de Mineração (geotecnia) - Anglo American",
+  stack: ["React", "JavaScript ES6+", "Node.js", "APIs REST"],
+  diferencial: "Construo ferramentas pra resolver problemas que eu mesmo enfrento no trabalho",
+  buscando: "Oportunidades como desenvolvedor front-end",
 };
 ```
 
-**💡 Acredito que cada linha de código é uma chance de aprender, crescer e transformar o mundo digital.**
+---
+
+## 💼 Projetos em Destaque
+
+### 📸 [Relatório Fotográfico de Geotecnia](https://relatorio-diario-gth-cava.vercel.app)
+App PWA para técnicos de geotecnia registrarem inspeções em campo: captura de fotos direto da câmera (com GPS e data/hora via EXIF), legendas assistidas por IA, e geração automática de relatório em Word — tudo funcionando offline após instalado.
+
+<!-- Adicionar aqui o GIF de demonstração quando estiver pronto -->
+<!-- ![Demo](https://raw.githubusercontent.com/Dmdoliveira2/relatorio-geotecnia/main/assets/demo.gif) -->
+
+**Stack:** React · Vite · vite-plugin-pwa · docx · API Anthropic (IA)
+
+---
+
+### 🌱 [Semente do Dia](https://devocional-reflex-es.vercel.app/)
+Devocional web app criado para apoiar o ministério infantil da igreja — exibe versículo do dia (via bible-api.com) com reflexão diária.
+
+**Stack:** HTML · CSS · JavaScript
 
 ---
 
@@ -52,6 +69,15 @@ const douglas = {
 
 ---
 
+## 🎯 Foco Atual
+
+- 🔥 Construindo projetos que unem meu conhecimento técnico de mineração com desenvolvimento web
+- 🌱 Aprofundando **React**, **Node.js/Express** e **APIs REST**
+- 🚀 Transformando o Relatório Fotográfico de Geotecnia em produto SaaS multi-usuário
+- 💼 Aberto a oportunidades como desenvolvedor front-end
+
+---
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -62,31 +88,6 @@ const douglas = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dmdoliveira2&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </p>
-
----
-
-## 🎯 Foco Atual
-
-- 🌱 Aprofundando conhecimentos em **React** e **JavaScript avançado**
-- 🎨 Explorando **UI/UX Design** e **acessibilidade web**
-- 🔥 Construindo projetos que unem **design e desenvolvimento**
-- 📚 Estudando **APIs REST** e **desenvolvimento full-stack**
-
----
-
-## 💼 Projetos em Destaque
-
-### 📸 [Relatório Fotográfico de Geotecnia](https://relatorio-diario-gth-cava.vercel.app)
-App PWA para técnicos de geotecnia registrarem inspeções em campo: captura de fotos direto da câmera (com GPS e data/hora via EXIF), legendas assistidas por IA, e geração automática de relatório em Word — tudo funcionando offline após instalado.
-
-**Stack:** React · Vite · vite-plugin-pwa · docx · API Anthropic (IA)
-
----
-
-### 🌱 [Semente do Dia](https://devocional-reflex-es.vercel.app/)
-Devocional web app criado para apoiar o ministério infantil da igreja — exibe versículo do dia (via bible-api.com) com reflexão diária.
-
-**Stack:** HTML · CSS · JavaScript
 
 ---
 

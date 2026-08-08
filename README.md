@@ -76,7 +76,17 @@ const douglas = {
 
 ## 💼 Projetos em Destaque
 
-📌 _Em breve! Estou trabalhando em projetos incríveis para compartilhar aqui._
+### 📸 [Relatório Fotográfico de Geotecnia](https://relatorio-diario-gth-cava.vercel.app)
+App PWA para técnicos de geotecnia registrarem inspeções em campo: captura de fotos direto da câmera (com GPS e data/hora via EXIF), legendas assistidas por IA, e geração automática de relatório em Word — tudo funcionando offline após instalado.
+
+**Stack:** React · Vite · vite-plugin-pwa · docx · API Anthropic (IA)
+
+---
+
+### 🌱 [Semente do Dia](#)
+Devocional web app criado para apoiar o ministério infantil da igreja — exibe versículo do dia (via bible-api.com) com reflexão diária.
+
+**Stack:** HTML · CSS · JavaScript
 
 ---
 

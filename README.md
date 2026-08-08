@@ -83,7 +83,7 @@ App PWA para técnicos de geotecnia registrarem inspeções em campo: captura de
 
 ---
 
-### 🌱 [Semente do Dia](#)
+### 🌱 [Semente do Dia](https://devocional-reflex-es.vercel.app/)
 Devocional web app criado para apoiar o ministério infantil da igreja — exibe versículo do dia (via bible-api.com) com reflexão diária.
 
 **Stack:** HTML · CSS · JavaScript

@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Olá%2C+eu+sou+Douglas+Oliveira+👋;Transformando+ideias+em+código+✨;Designer+%7C+Desenvolvedor+%7C+Criador+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Douglas+Oliveira+%F0%9F%91%8B;T%C3%A9cnico+de+campo+virando+dev+%F0%9F%9A%80;Construo+ferramentas+pra+problemas+reais+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Front-end em formação | Técnico de Mineração | Designer Gráfico</strong>
+  <strong>Desenvolvedor Front-end em formação · Técnico de Mineração (Geotecnia) · Designer Gráfico</strong>
 </p>
 
 <p align="center">
@@ -14,52 +14,43 @@
 
 ## 🚀 Sobre mim
 
-Técnico de mineração migrando de carreira para desenvolvimento front-end. Uso código pra resolver problemas reais do meu próprio dia a dia de trabalho em campo — e é exatamente isso que meus projetos abaixo mostram.
+Sou técnico de mineração na Anglo American, atuando com geotecnia em cava — inspeção de taludes, sondagem e instrumentação. Estou migrando de carreira para desenvolvimento front-end, e o que mais me motiva é usar código para resolver problemas que eu mesmo enfrento em campo. Não são projetos de portfólio genéricos: são ferramentas que nasceram de uma necessidade real do meu dia a dia de trabalho.
 
 ```javascript
 const douglas = {
-  formação: "Desenvolvimento Web Full Stack - TripleTen",
-  background: "Técnico de Mineração (geotecnia) - Anglo American",
+  formação: "Desenvolvimento Web Full Stack — TripleTen",
+  background: "Técnico de Mineração (Geotecnia) — Anglo American",
   stack: ["React", "JavaScript ES6+", "Node.js", "APIs REST"],
-  diferencial: "Construo ferramentas pra resolver problemas que eu mesmo enfrento no trabalho",
+  diferencial: "Vejo o problema de campo antes de escrever a primeira linha de código",
   buscando: "Oportunidades como desenvolvedor front-end",
 };
 ```
 
 ---
 
-## 💼 Projetos em Destaque
+## 💼 Projetos em destaque
 
 ### 📸 [Relatório Fotográfico de Geotecnia](https://relatorio-diario-gth-cava.vercel.app)
-App PWA para técnicos de geotecnia registrarem inspeções em campo: captura de fotos direto da câmera (com GPS e data/hora via EXIF), legendas assistidas por IA, e geração automática de relatório em Word — tudo funcionando offline após instalado.
+PWA para técnicos de geotecnia registrarem inspeções de campo direto pelo celular: captura de fotos pela câmera com data/hora e GPS via EXIF, legendas melhoradas por IA (API Anthropic), e geração automática de relatório em Word — funciona offline depois de instalado.
 
-<!-- Adicionar aqui o GIF de demonstração quando estiver pronto -->
-<!-- ![Demo](https://raw.githubusercontent.com/Dmdoliveira2/relatorio-geotecnia/main/assets/demo.gif) -->
-
-**Stack:** React · Vite · vite-plugin-pwa · docx · API Anthropic (IA)
-
----
+**Stack:** React · Vite · vite-plugin-pwa · docx · API Anthropic
 
 ### 🌱 [Semente do Dia](https://devocional-reflex-es.vercel.app/)
-Devocional web app criado para apoiar o ministério infantil da igreja — exibe versículo do dia (via bible-api.com) com reflexão diária.
+Devocional web criado para o ministério infantil da minha igreja: exibe o versículo do dia (via bible-api.com) com uma reflexão diária.
 
 **Stack:** HTML · CSS · JavaScript
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-### Front-end
+## 🛠️ Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
-
-### Design & Ferramentas
-
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -69,16 +60,15 @@ Devocional web app criado para apoiar o ministério infantil da igreja — exibe
 
 ---
 
-## 🎯 Foco Atual
+## 🎯 Em andamento agora
 
-- 🔥 Construindo projetos que unem meu conhecimento técnico de mineração com desenvolvimento web
-- 🌱 Aprofundando **React**, **Node.js/Express** e **APIs REST**
-- 🚀 Transformando o Relatório Fotográfico de Geotecnia em produto SaaS multi-usuário
-- 💼 Aberto a oportunidades como desenvolvedor front-end
+- Evoluindo o Relatório Fotográfico de Geotecnia para SaaS multiusuário (empresa contrata → todos os técnicos usam)
+- Aprofundando React, Node.js/Express e APIs REST
+- Aberto a oportunidades como desenvolvedor front-end
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dmdoliveira2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -91,7 +81,7 @@ Devocional web app criado para apoiar o ministério infantil da igreja — exibe
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-oliveira-14bab9326/">
@@ -105,14 +95,6 @@ Devocional web app criado para apoiar o ministério infantil da igreja — exibe
   </a>
 </p>
 
----
-
 <div align="center">
-  
-  ### ✨ *"Transformando curiosidade em inovação — um pixel e um código por vez."* ✨
-  
-  <p>Cada projeto é uma nova oportunidade de aprender, criar e deixar o mundo digital um pouco mais bonito.</p>
-  
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-  
 </div>
